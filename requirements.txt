@@ -1,0 +1,9 @@
+pyspark==3.5.1
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+apache-airflow-providers-apache-spark==4.8.1
+streamlit
+plotly
+
